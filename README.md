@@ -1,4 +1,4 @@
-# Khoji
+## Khoji
 
 A university project for the course Data Structures and Algorithms. Khoji is a navigating app for the local context. We mapped all the local locations which aren't on the map already such as fruit stalls, street food vendors, mechanics and other trivial stalls in the street etc in the 500m radius of Habib University.
 
